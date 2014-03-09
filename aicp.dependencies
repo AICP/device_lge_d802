@@ -1,0 +1,17 @@
+[
+ {
+   "repository": "AOKP/device_lge_g2-common",
+   "target_path": "device/lge/g2-common",
+   "branch":      "kitkat"
+ },
+ {
+  "repository": "AOKP/vendor_lge",
+  "target_path": "vendor/lge",
+  "branch":      "kitkat"
+ },
+ {
+   "repository": "CyanogenMod/android_kernel_lge_msm8974",
+   "target_path": "kernel/lge/msm8974",
+   "branch":      "cm-11.0"
+ }
+]
