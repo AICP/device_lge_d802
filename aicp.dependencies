@@ -10,8 +10,8 @@
    "branch":      "kitkat"
  },
  {
-  "repository": "Drgravy/vendor_lge_g2",
-  "target_path": "vendor/lge/g2",
+  "repository": "Drgravy/vendor_lge",
+  "target_path": "vendor/lge",
   "branch":      "kitkat"
  },
  {
