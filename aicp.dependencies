@@ -2,7 +2,7 @@
  {
    "repository": "AICP/device_lge_g2-common",
    "target_path": "device/lge/g2-common",
-   "branch":      "lp5.1"
+   "branch":      "lp5.1-caf"
  },
  {
   "repository": "AICP/proprietary_vendor_lge",
@@ -12,6 +12,6 @@
  {
    "repository": "AICP/kernel_lge_msm8974",
    "target_path": "kernel/lge/msm8974",
-   "branch":      "lp5.1"
+   "branch":      "lp5.1-caf"
  }
 ]
